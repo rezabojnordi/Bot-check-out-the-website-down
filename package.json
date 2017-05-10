@@ -1,0 +1,23 @@
+{
+  "name": "softgrand",
+  "version": "1.0.0",
+  "description": "opensource projects,security articles, technology news ",
+  "main": "bot.js",
+  "github":"https://github.com/softgrand/Bot-check-out-the-website-down.git",
+  "dependencies": {
+    "node-cron": "^1.1.3",
+    "node-telegram-bot-api": "^0.27.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "opensource",
+    "nodejs"
+  ],
+  "author": "Reza Bojnordi",
+  "license": "ISC"
+}
