@@ -106,4 +106,3 @@ function checking_online_site() {
 }
 
 
-checking_online_site.type1 = checking_online_site;
