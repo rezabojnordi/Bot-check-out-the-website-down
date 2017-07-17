@@ -118,7 +118,7 @@ cron.schedule('*/10 * * * *', function () {
 
 function checking_online_site() {
   // var request = require('request');
-  request('http://185.23.129.221', function (error, response, body) {
+  request('add site url or ip', function (error, response, body) {
     if (!error && response.statusCode == 200) {
     
     } else {
