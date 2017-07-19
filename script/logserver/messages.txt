@@ -1,0 +1,2 @@
+Jul 16 14:41:34 localhost kernel: tun: Universal TUN/TAP device driver, 1.6
+Jul 16 14:41:34 localhost kernel: tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>

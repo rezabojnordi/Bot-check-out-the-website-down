@@ -1,0 +1,2 @@
+/dev/sda1        77G   19G   55G  25% /
+/dev/sda3        20G  8.4G   11G  46% /var

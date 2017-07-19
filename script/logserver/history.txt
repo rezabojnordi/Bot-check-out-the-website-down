@@ -1,0 +1,1000 @@
+pm2 logs 0
+pm2 restart bot
+pm2 logs 0
+pm2 list
+pm2 monitor index
+pm2 monitor mongo
+pm2 monitor Mongo
+pm2 list
+pm2 logs 2
+cd project/rasam
+cd project/
+cd rasam_funds/
+cd node_modules/
+cd part
+cd part-seo/
+npm i package.json 
+pm2 logs 2
+cd ..
+cd public/
+cd robots
+cd robots-schema/
+cd settings/
+node generate-
+node generate-snapshots.js 
+clear
+htop
+cd ..
+pm2 logs 2
+cd node_modules/
+cd ..
+cd rasam_funds/
+cd node_modules/part-seo/
+cd node_modules/
+cd ..
+npm i phantomjs-prebuilt
+cd ..
+npm i phantomjs-prebuilt
+cd project/rasam_
+cd project/rasam_funds/
+clear
+gulp prod
+clear
+cd node_modules/
+cd ..
+cd public/
+cd robots-schema/
+cd settings/
+cd ..
+cd dir/
+cd rasamfunds/
+cd ..
+cd settings/
+node generate-snapshots.js 
+cd ..
+node generate-snapshots.js 
+cd ..
+cd public/
+cd robots-schema/
+clear
+cd settings/
+node generate-snapshots.js 
+cd ..
+cd snapshots/rasamfunds/
+cd ..
+cd robots-schema/
+cd dir/
+cd rasamfunds/
+cd ..
+cd settings/
+node sna
+node generate-snapshots.js 
+cd ..
+cd node_modules/
+cd part
+cd part-seo
+cd ..
+cd public/snapshots/
+cd rasamfunds/
+cd ..
+cd project/
+cd rasam_funds/
+clear
+cd public/
+cd snapshots/
+unzip -all rasamfunds.zip 
+unzip rasamfunds.zip 
+cd ..
+cd robots
+cd robots-schema/
+clear
+cd settings/
+node generate-snapshots.js 
+cd settings/
+node generate-snapshots.js 
+cd ..
+gulp prod
+cd public/robots-schema/
+cd dir/
+cd ..
+cd settings/
+node generate-snapshots.js 
+clear
+cd ..
+cd node_modules/
+npm i node-horseman
+rm -rf node-horseman
+npm i node-horseman
+cd ..
+cd node_modules/
+cd ..
+cd project/
+cpm
+cd ..
+cd node_modules/
+npm i node-horseman
+npm i phantomjs
+cd ..
+cd project/rasam_funds/public/robots-schema/
+cd settings/
+node generate-snapshots.js 
+cd ..
+cd node_modules/
+cd part
+cd part-seo/
+rm -rf node_modules/
+cd ..
+cd node_modules/
+cd part-seo/
+cd ..
+cd node_modules/
+cd ..
+cd node_modules/
+cd ..
+cd node_modules/
+rm -rf phantomjs/
+rm -rf node-horseman/
+cd ..
+cd project/
+cd node_modules/
+cd ..
+cd rasam_funds/
+
+cd part
+cd part-seo/
+
+npm i package
+cd ..
+cd node_modules/
+cd ..
+cd node_modules/
+cd ..
+cd project/rasam_funds/
+cd public/robots-schema/
+cd settings/
+node generate-snapshots.js 
+cd ..
+cd node_modules/
+cd part-seo/
+rm -rf node_modules/
+clear
+npm i
+rm -rf node_modules/
+npm i
+clear
+npm i
+cd ..
+node -v
+cd part-seo/
+clear
+npm i
+npm config set registry http://registry.npmjs.org/
+npm i
+rm -rf node_modules/
+cd ..
+cd part-seo/
+clear
+npm i
+cd node_modules/
+cd ..
+cd 
+cd project/rasam_funds/
+clear
+cd public/robots-schema/
+cd settings/
+node generate-snapshots.js 
+pm2 list
+node generate-snapshots.js 
+pm2 lis
+pm2 list
+pm2 stop 5
+cd ..
+ccd ..
+cd ..
+cd node_modules/
+cd part-seo/
+rm -rf
+npm i
+rm -rf node_modules/
+npm i
+cd node_modules/
+cd ..
+pm2 list
+pm2 update
+pm2 logs 2
+clear
+cd public/
+cd robots-schema/
+cd settings/
+node generate-snapshots.js 
+cd ..
+cd dir/
+cd rasamfunds/
+cd ..
+cd rasam/app/visitor/
+cd main/
+cd ..
+gulp prod
+clear
+pm2 logs 2
+clear
+pm2 update 
+pm2 logs 2
+cd nod
+ls
+cd ..
+cd rasam_funds/
+cd node_modules/
+rm -rf part-seo/
+unzip part-seo.zip 
+pm2 list
+pm2 logs 6
+cd ..
+cd public/snapshots/
+cd rasamfunds/
+cd ..
+cd rasam_funds/
+clear
+cd node_modules/
+cd part-seo
+cd ..
+cd public/
+cd snapshots/
+cd rasamfunds/
+cd ..
+cd robots-schema/
+cd settings/
+node generate-snapshots.js 
+cd ..
+cd snapshots/
+cd rasamfunds/
+cd ..
+مس
+ls
+cd ..
+cd public/rasam/app/
+cd visitor/
+cd aboutUs/
+cd ..
+gulp prod
+cd public/robots-schema/settings/
+node generate-snapshots.js 
+cd ..
+cd project/rasam
+cd project/rasam_funds/
+clear
+cd public/snapshots/
+cd rasamfunds/
+cd ..
+cd project/rasam_funds/
+gulp dev
+cd public/snapshots/rasamfunds/
+cd ../..
+cd ..
+gulp prod
+cd project/rasam_funds/
+clear
+cd public/
+pm2 list
+pm2 update
+cd ..
+cd public/robots-schema/settings/
+node generate-
+node generate-snapshots.js 
+clear
+node generate-snapshots.js 
+clear
+node generate-snapshots.js 
+clear
+node generate-snapshots.js 
+cd /home/
+./gitcheck.sh 
+pm2 logs 16
+./gitcheck.sh 
+cd ..
+cd /root/project/rasam_funds/
+cd ..
+npm i node-horseman
+cd ..
+npm i node-horseman
+cd project/
+ls
+npm i
+cd ..
+cd project/
+npm i
+cd ..
+cd node_modules/
+npm i phantomjs
+pm2 list
+pm2 logs 4
+pm2 list
+pm2 logs 5
+pm2 list
+pm2 logs 5
+cd ..
+cd project/
+cd rasam_funds/
+cd node_modules/
+cd part-seo/
+pm2 list
+pm2 logs 6
+pm2 list
+cd ..
+date
+cd project/
+cd 07-10-17-rasam_funds/
+pm2 l
+pm2 stop index
+pm2 start index.js 
+pm2 delete index.js 
+pm2 delete 20
+pm2 start index.js 
+pm2 logs 22
+cd ..
+cd 07-09-17-rasam_funds/
+pm2 start index.js 
+pm2 delete index.js 
+pm2 delete 22
+pm2 start index.js 
+pm2 logs index.js 
+pm2 logs 24
+cd ..
+rm -rf rasam-mongo/
+unzip rasam-mongo.zip 
+cd rasam-mongo
+pm2 start index.js 
+pm2 delete index.js 
+pm2 delete 24
+pm2 start index.js 
+pm2 logs 26
+gulp prod
+cd ..
+rm -rf rasam_funds/
+cd project/rasamDB2Mongo/
+clear
+pm2 l
+cd /home/
+./gitcheck.sh 
+pm2 logs 28
+cd ./
+cd ..
+cd /root/
+cd project/
+cd rasam_funds/
+gulp prod
+pm2 list
+cat /root/.bash_history 
+cd /home/
+vim ./gitcheck.sh 
+ls
+cd /root/
+cd project/
+ls
+pwd
+cd rasam_funds/
+c node_modules/
+ls
+cd node_modules/
+ls
+cd partLogger/
+ls
+cp config.js /home/configrasam/
+cd /home/
+ls
+cp configrasam/ rasamconfig
+cp -rf configrasam/ rasamconfig
+rm -rf configrasam/
+ls
+vim gitcheck.sh 
+bash gitcheck.sh 
+cd /root/project/rasam_funds
+gulp prod
+pm2 l
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+pm2 l
+pm2 restart 30
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+pm2 restart 30
+pm2 logs 30
+cls
+pm2 restart 30
+pm2 logs 30
+cd /home/rasamconfig/
+cd /root/
+pwd
+cd /root
+ls
+cd /root/
+pwd
+ls
+ll
+ps -faux | grep node
+lls
+ls
+cd /home
+ls
+mkdir rezabojnordi
+ls
+mkdir /root/project/ test
+mkdir /root/project/ rb
+mkdir /root/project/test
+mkdir /root/project/rb
+ls /root/project/
+vim gitcheck.sh 
+مس -م
+ls -l
+ll
+ls -ld
+ls -d /root/
+ls -d
+ls -ld /root/
+ls -l
+cd project/
+cd rasam_funds/public/snapshots/
+pm2 list
+pm2 logs 30
+cd ..
+gulp prod
+cd public/snapshots/
+cd project/rasam_funds/
+clear
+cd public/
+cd robots-schema/
+cd dir/
+cd rasamfunds/
+cd ..
+cd settings/
+node generate-snapshots.js 
+clear
+node generate-snapshots.js 
+updatedb
+locate fstab
+find / -name fstab
+locate fstab
+clear
+history 10
+finger
+finge
+finger
+yum install finger 
+finger
+finger pts/1
+finger
+finger > 1.txt
+ls
+cat 1.txt 
+ls
+cat 1.txt 
+htop
+pm2 liat
+pm2 list
+pm2 list > 1.txt
+ls
+cat 1.txt 
+vim 1.txt 
+ls
+htop
+htop >> 1.txt 
+cat 1.txt 
+top > 2.txt 
+finger
+finger > user.txt
+cat user.txt 
+ls
+rm 1.txt 
+ls
+rm 2.txt 
+ls
+df -H | grep -vE '^Filesystem|tmpfs|cdrom' | awk '{ print $5 " " $1 }'
+df -h
+ps -aux | less
+ps -eo euser,ruser,suser,fuser,f,comm,label
+top -b -n1
+sensors
+yum install sensors
+ps -eo pcpu,pid,user,args | sort -k1 -r | head -10
+/usr/local/bin/matho-primes 0 999999999
+cat /etc/os-release | grep 'NAME\|VERSION' | grep -v 'VERSION_ID' | grep -v 'PRETTY_NAME' 
+cat /etc/os-release | grep 'NAME\|VERSION' | grep -v 'VERSION_ID' | grep -v 'PRETTY_NAME'
+cat /etc/redhat-release | grep 'NAME\|VERSION' | grep -v 'VERSION_ID' | grep -v 'PRETTY_NAME'
+cat /etc/os-release | grep 'NAME\|VERSION' | grep -v 'VERSION_ID' | grep -v 'PRETTY_NAME'
+uname -r
+curl -s ipecho.net/plain;echo
+cat /etc/resolv.conf | sed '1 d' | awk '{print $2}'
+who
+free -h | grep -v +
+free -f | grep -v +
+free - | grep -v +
+vim test
+vim test1.sh
+chmod +x test1.sh 
+bash test1.sh 
+df -h| grep 'Filesystem\|/dev/sda*'
+exit
+df -h| grep 'Filesystem\|/dev/sda*'
+vim test1.sh 
+bash test1.sh 
+uptime | awk '{print $3,$4}' | cut -f1 -d
+uptime | awk '{print $3,$4}' | cut -f1 -d,
+uptime
+uptime | awk '{print $3,$4}'
+uptime | awk '{print $3,$4}' | cut -f1
+uptime | awk '{print $3,$4}' | cut -d,
+uptime | awk '{print $3,$4}' | cut -f1 -d,
+unet
+unset
+unset tecreset os architecture kernelrelease internalip externalip nameserver loadaverage
+man unset
+htop
+pm2 list
+awk
+man cut
+pm2 l
+pm2 logs 30
+pm2 restart 30
+pm2 restart 1
+finger
+pm2 list
+pm2 logs 30
+pm2 update
+pm2 logs 1
+htop
+pm2 logs 1
+cd .pm2/logs/
+clear
+rm -rf ~/.local/share/Trash/*
+htop
+cd ~/.local/share/Trash/
+cd ~/.local/
+cd share/
+cd ..
+find path trash
+find path Trash
+find / -name trash
+find / -name Trash
+cd .gconf/apps/nautilus/desktop-metadata/
+cd trash/
+cd ..
+cd .
+cd ..
+cd .
+cd cd
+cd ....
+cd ..
+cd ./
+cd /root/
+clear
+htop
+cd project/
+cd rasam
+pm2 list
+pm2 logs 1
+cd project/rasamDB2Mongo/
+clear
+pm2 start index.js --name="tempMongo"
+pm2 logs 31
+clear
+htop
+pm2 stop 31
+pm2 logs 1
+clear
+redis-cli
+cd /var/lib/redis/
+redis-cli
+htop
+cd /root/project/rasamDB2Mongo/
+clear
+node index.js 
+clear
+node index.js 
+service mongo restart
+service mongod restart
+htop
+node index.js 
+clear
+service mongod status
+service status
+service -all status
+service  status -help
+service   -help
+service   --help
+service   --status-al
+service   --status-all
+node index.js 
+cd ..
+pm2 list
+pm2 delete 1
+pm2 delete 31
+rm -rf rasamDB2Mongo/
+git clone http://192.168.1.244/partigaran/rasamDB2Mongo.git
+clear
+cd rasamDB2Mongo/
+node index.js 
+pm2 list
+pm2 start scheduler.js --name="Mongo"
+pm2 logs 2
+pm2 start index.js --name="MongoTemp"
+pm2 logs 3
+pm2 list
+pm2 delete 3
+cd project/
+cd rasamDB2Mongo/
+ls
+cd /home
+ls
+cd botrasam/
+ls
+cd code\ bot
+ls
+vim bot.js 
+yum openconnect
+openconnect
+yum install openconnect
+openconnect us.cisadd.com
+finger
+finger pts/0
+finger 0
+man finger
+finger -s
+finger root
+finger -s harry root
+finger -p harry root
+finger -m harry root
+finger -m root
+finger > /home/reza/finger.txt
+cd /home/reza
+ls
+cat finger.txt 
+finger > /home/reza/finger.txt
+cat finger.txt 
+cd /home
+ls
+mkdir botServer
+cd botServer/
+ls
+pwd
+finger > /home/botServer/finger.txt
+cat finger.txt 
+ls
+cat /root/.bash_history > /home/botServer/history.txt
+cat history.txt 
+ls
+df -h| grep 'Filesystem\|/dev/sda*'
+df -h| grep 'Filesystem\|/dev/sda*' > /home/botServer/hdd.txt
+cat hdd.txt 
+df -h| grep 'Filesystem\|/dev/sda*' > /home/botServer/hdd.txt
+ls
+cat hdd.txt 
+cat /var/log/mongodb/mongod.log 
+cat /var/log/mongodb/mongod.log 10
+tail /var/log/mongodb/mongod.log 10
+tail -n 20 /var/log/mongodb/mongod.log 10
+tail -n 100 /var/log/mongodb/mongod.log 10
+clear
+tail -n 100 /var/log/mongodb/mongod.log 10
+clear
+tail -n +100 /var/log/mongodb/mongod.log 10
+clear
+tail -n -100 /var/log/mongodb/mongod.log 10
+clear
+tail -n -100 /var/log/mongodb/mongod.log 10
+tail -n -100 /var/log/mongodb/mongod.log
+cler
+clear
+tail -n -100 /var/log/mongodb/mongod.log
+tail -n -100 /var/log/mongodb/mongod.log > /home/botServer/mongo.txt
+ls
+cat mongo.txt 
+clear
+cat /var/log/redis/redis.log
+cat /var/log/redis/redis.log > /home/botServer/redise.txt
+ls
+cat redise.txt 
+ls
+cat /var/log/secure
+cat /var/log/secure > /home/botServer/security.txt
+cat security.txt 
+clear
+cat /var/log/messages
+cd /var/log/
+ls
+cat messages
+cat /var/log/messages > /home/botServer/messages.txt
+cat messages
+cat message
+cd /home/botServer/
+ls
+cat messages.txt 
+حصي
+pwd
+ls
+cat /var/log/messages
+ls
+unzip server_telegram.zip 
+ls
+cd server_telegram
+ls
+node server.js 
+npm node-cron
+node server.js 
+npm -i node-cron
+npm i node-cron
+ls
+sudo npm i node-cron
+npm i node-cron
+la
+l
+ls
+pwd
+ls
+cd ..
+ls
+cd /home/
+ls
+cd node_modules/
+ls
+cd ..
+ls
+cd botrasam/
+ls
+cd code\ bot
+ls
+cd node_modules/
+ls
+cd /home/
+ls
+cd botServer/
+ls
+cd server_telegram
+ls
+npm i dated 1 package in 0.854s
+npm i node-cron
+npm install --save node-cron
+npm install
+ls
+rm -rf node_modules/
+ls
+node server.js 
+npm i node-cron
+ls
+cd ..
+ls
+cd ..
+ls
+chmod 755 botServer/
+ls
+cd botServer/
+ls
+chmod 777 server_telegram
+ls
+cd server_telegram
+ls
+npde server.js 
+node server.js 
+npm i node-telegram-bot-api
+ping facebook.com
+npm install node-telegram-bot-api
+cd /home/
+ls
+rm 
+rm /home/package-lock.json 
+ls
+chmod 777 botServer/
+ls
+cd botServer/
+l
+ls
+cd server_telegram
+ls
+node server.js 
+cd /home/botServer/
+ls
+cd server_telegram
+ls
+node server.js 
+cd /home/
+ls
+cd botServer/
+ls
+cd server_telegram
+ls
+node server.js 
+pm2 list
+ls
+node server.js 
+ls
+vim server.js 
+node server.js 
+ls
+cd script/
+cd ..
+ls
+chmod 755 script/
+node server.js 
+vim server.js 
+cat /var/log/messages
+cd project/rasamDB2Mongo/
+clear
+node test.js 
+cd ..
+cd rasamDB2Mongo/
+cd node_modules/
+cd partDbInterface/
+npm index.js 
+cd ..
+cd ../..
+cd node_modules/
+cd mongodb
+pm2 list
+pm2 stop 2
+cd ..
+cd rasamDB2Mongo/
+node test.js 
+cd node_modules/
+cd part
+cd partDbInterface/
+npm i mongodb@2.0.41
+cd ..
+node test.js 
+cd node_modules/
+cd partDbInterface/
+rm -rf node_modules/
+cls
+clear
+cd ..
+node test.js 
+clear
+ئخدلخيذ
+mongo
+cd /home/
+ls
+c botServer/
+cd botServer/
+ls
+cd server_telegram
+ls
+cd script/
+vim config.js 
+cd ..
+ls
+node server.js 
+ls
+vim script/bash.js 
+node server.js 
+ls
+vim script/bash.js 
+node server.js 
+vim script/bash.js 
+node s
+node server.js 
+ls
+finger
+cd /home/botServer/
+ls
+cd server_telegram
+ls
+cd script/
+ls
+pwd
+ls
+mkdir logserver
+cd log
+cd logserver/
+ls
+pwd
+finger > /home/botServer/server_telegram/script/logserver/finger.txt
+ls
+cat finger.txt 
+cd..
+cd /home/
+ls
+cd botServer/
+ls
+unzip server_telegram.zip 
+ls
+cd server_telegram
+ls
+node server.js 
+ls
+node server.js 
+cd script/
+ls
+vim bash.js 
+vim config.js 
+cd ..
+node server.js 
+cd script/bash.js 
+vim script/bash.js 
+node in
+node server.js 
+vim script/bash.js 
+node server.js 
+clear
+node server.js 
+vim script/bash.js 
+node server.js 
+vim script/bash.js 
+node server.js 
+vim script/bash.js 
+node server.js 
+vim script/bash.js 
+node server.js 
+vim script/bash.js 
+node server.js 
+cat script/config.js 
+cat /root/.bash_history > /home/botServer/server_telegram/script/logserver/history.txt
+cd script/
+ls
+cat logserver/history.txt 
+vim bash.js 
+cd ..
+node server.js 
+vim server.js 
+vim script/bash.js 
+cd ..
+node server_telegram
+ld
+ls
+cd server_telegram
+ls
+node server.js 
+tail -C /path/to/file | head -D
+tail -C /var/log/secure | head -D
+tail -C /var/log/secure | head 
+tail -C /var/log/secure
+tail  /var/log/secure
+cat /root/.bash_history 
+cat /root/.bash_history > 1.txt
+vim 1.txt 
+rm 1.txt 
+ls
+node server.js 
+vim script/bash.js 
+vim script/config.js 
+cat /root/.bash_history > /home/botServer/server_telegram/script/logserver/history.tx
+ls script/logserver/
+cat script/logserver/history.tx
+node server.js 
+vim script/bash.js 
+vim server.js 
+vim script/config.js 
+node server.js 
+vim script/config.js 
+node server.js 
+vim script/config.js 
+df -h |/dev/sda*' > /home/botServer/server_telegram/script/logserver/hdd.txt"
+df -h |/dev/sda* > /home/botServer/server_telegram/script/logserver/hdd.txt"
+df -h | /dev/sda* > /home/botServer/server_telegram/script/logserver/hdd.txt
+df -h |/dev/sda*' > /home/botServer/server_telegram/script/logserver/hdd.txt
+df -h| grep 'Filesystem\|/dev/sda*' > /home/botServer/server_telegram/script/logserver/hdd.txt"
+df -h| grep 'Filesystem\|/dev/sda*' > /home/botServer/server_telegram/script/logserver/hdd.txt
+df -h | grep '/dev/sd*
+df -h | grep '/dev/sd*'
+df -h | grep '/dev/sda*'
+vim script/config.js 
+node server.js 
+vim server.js 
+vim script/bash.js 
+vim script/config.js 
+tail -n -100 /var/log/mongodb/mongod.log > /home/botServer/server_telegram/script/logserver/mongo.txt
+cat script/logserver/mongo.txt 
+vim server.js 
+vim script/bash.js 
+vim script/config.js 
+node server.js 
+ls
+vim server.js 
+vim script/bash.js 
