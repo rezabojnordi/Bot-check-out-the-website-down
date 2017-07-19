@@ -1,0 +1,100 @@
+2017-07-17T07:52:17.170+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T07:52:17.170+0430 [clientcursormon]  connections:3
+2017-07-17T07:57:17.187+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T07:57:17.187+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T07:57:17.187+0430 [clientcursormon]  connections:3
+2017-07-17T08:02:17.204+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:02:17.204+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:02:17.204+0430 [clientcursormon]  connections:3
+2017-07-17T08:07:17.222+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:07:17.222+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:07:17.222+0430 [clientcursormon]  connections:3
+2017-07-17T08:12:17.238+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:12:17.238+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:12:17.238+0430 [clientcursormon]  connections:3
+2017-07-17T08:12:55.573+0430 [conn1774] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:0 locks(micros) r:108042 nreturned:18 reslen:5010 108ms
+2017-07-17T08:13:44.811+0430 [conn1772] end connection 127.0.0.1:60271 (2 connections now open)
+2017-07-17T08:13:44.811+0430 [conn1773] end connection 127.0.0.1:60272 (1 connection now open)
+2017-07-17T08:13:44.811+0430 [conn1774] end connection 127.0.0.1:60273 (0 connections now open)
+2017-07-17T08:16:49.963+0430 [initandlisten] connection accepted from 127.0.0.1:60420 #1775 (1 connection now open)
+2017-07-17T08:16:49.974+0430 [conn1775]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T08:17:02.933+0430 [initandlisten] connection accepted from 127.0.0.1:60434 #1776 (2 connections now open)
+2017-07-17T08:17:02.935+0430 [conn1776]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T08:17:04.015+0430 [conn1776] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:0 locks(micros) r:106359 nreturned:18 reslen:5010 106ms
+2017-07-17T08:17:17.255+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:17:17.255+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:17:17.255+0430 [clientcursormon]  connections:2
+2017-07-17T08:22:17.273+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:22:17.273+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:22:17.273+0430 [clientcursormon]  connections:2
+2017-07-17T08:26:40.134+0430 [initandlisten] connection accepted from 127.0.0.1:60463 #1777 (3 connections now open)
+2017-07-17T08:26:40.135+0430 [conn1777]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T08:27:17.290+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:27:17.290+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:27:17.291+0430 [clientcursormon]  connections:3
+2017-07-17T08:32:17.309+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:32:17.309+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:32:17.309+0430 [clientcursormon]  connections:3
+2017-07-17T08:32:17.541+0430 [conn1775] query rasam_new.calculatedEfficiency query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:290880 nscannedObjects:290880 keyUpdates:0 numYields:0 locks(micros) r:109569 nreturned:0 reslen:20 109ms
+2017-07-17T08:32:41.371+0430 [conn1775] query rasam_new.fundPropertyCombination query: { orderby: {}, $query: { query: { date: "13960424", fundId: "543" }, fields: [ "date", "liquidity", "stock", "otherAsset", "bond", "deposit" ] } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:265068 nscannedObjects:265068 keyUpdates:0 numYields:0 locks(micros) r:118014 nreturned:0 reslen:20 118ms
+2017-07-17T08:37:17.326+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:37:17.326+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:37:17.326+0430 [clientcursormon]  connections:3
+2017-07-17T08:39:59.914+0430 [conn1775] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:0 locks(micros) r:104288 nreturned:18 reslen:5010 104ms
+2017-07-17T08:42:17.343+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:42:17.343+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:42:17.343+0430 [clientcursormon]  connections:3
+2017-07-17T08:47:17.365+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:47:17.365+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:47:17.365+0430 [clientcursormon]  connections:3
+2017-07-17T08:52:17.384+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:52:17.385+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:52:17.385+0430 [clientcursormon]  connections:3
+2017-07-17T08:52:54.415+0430 [conn1777] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:0 locks(micros) r:130013 nreturned:18 reslen:5010 130ms
+2017-07-17T08:53:37.853+0430 [conn1775] query rasam_new.calculatedEfficiency query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:290880 nscannedObjects:290880 keyUpdates:0 numYields:0 locks(micros) r:109486 nreturned:0 reslen:20 109ms
+2017-07-17T08:57:17.405+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T08:57:17.405+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T08:57:17.405+0430 [clientcursormon]  connections:3
+2017-07-17T08:58:04.706+0430 [conn1777] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:1 locks(micros) r:142158 nreturned:18 reslen:5010 107ms
+2017-07-17T09:01:18.457+0430 [conn1775] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:0 locks(micros) r:102786 nreturned:18 reslen:5010 102ms
+2017-07-17T09:02:17.422+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T09:02:17.422+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T09:02:17.422+0430 [clientcursormon]  connections:3
+2017-07-17T09:07:03.864+0430 [initandlisten] connection accepted from 192.168.1.151:3960 #1778 (4 connections now open)
+2017-07-17T09:07:03.879+0430 [conn1778] end connection 192.168.1.151:3960 (3 connections now open)
+2017-07-17T09:07:03.885+0430 [initandlisten] connection accepted from 192.168.1.151:3961 #1779 (4 connections now open)
+2017-07-17T09:07:03.886+0430 [initandlisten] connection accepted from 192.168.1.151:3962 #1780 (5 connections now open)
+2017-07-17T09:07:03.887+0430 [initandlisten] connection accepted from 192.168.1.151:3963 #1781 (6 connections now open)
+2017-07-17T09:07:03.889+0430 [initandlisten] connection accepted from 192.168.1.151:3964 #1782 (7 connections now open)
+2017-07-17T09:07:03.895+0430 [initandlisten] connection accepted from 192.168.1.151:3965 #1783 (8 connections now open)
+2017-07-17T09:07:03.947+0430 [conn1780]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:07:03.947+0430 [conn1781]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:07:03.948+0430 [conn1782]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:07:03.949+0430 [conn1783]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:07:03.988+0430 [conn1779]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:07:06.893+0430 [conn1783] query rasam_new.fundPropertyValue query: { orderby: {}, $query: { date: "13960424" } } planSummary: COLLSCAN ntoreturn:1000 ntoskip:0 nscanned:305376 nscannedObjects:305376 keyUpdates:0 numYields:0 locks(micros) r:114371 nreturned:18 reslen:5010 114ms
+2017-07-17T09:07:17.441+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T09:07:17.441+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T09:07:17.441+0430 [clientcursormon]  connections:8
+2017-07-17T09:12:17.463+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T09:12:17.463+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T09:12:17.463+0430 [clientcursormon]  connections:8
+2017-07-17T09:13:10.399+0430 [conn1775] end connection 127.0.0.1:60420 (7 connections now open)
+2017-07-17T09:13:10.399+0430 [conn1776] end connection 127.0.0.1:60434 (6 connections now open)
+2017-07-17T09:13:10.399+0430 [conn1777] end connection 127.0.0.1:60463 (5 connections now open)
+2017-07-17T09:17:17.486+0430 [clientcursormon] mem (MB) res:2164 virt:5789
+2017-07-17T09:17:17.486+0430 [clientcursormon]  mapped (incl journal view):5408
+2017-07-17T09:17:17.486+0430 [clientcursormon]  connections:5
+2017-07-17T09:17:34.779+0430 [initandlisten] connection accepted from 192.168.1.151:55458 #1784 (6 connections now open)
+2017-07-17T09:17:34.786+0430 [initandlisten] connection accepted from 192.168.1.151:55459 #1785 (7 connections now open)
+2017-07-17T09:17:34.960+0430 [conn1784]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:17:34.973+0430 [conn1785]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:17:39.369+0430 [initandlisten] connection accepted from 192.168.1.151:55486 #1786 (8 connections now open)
+2017-07-17T09:17:39.403+0430 [conn1786]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:17:39.410+0430 [initandlisten] connection accepted from 192.168.1.151:55487 #1787 (9 connections now open)
+2017-07-17T09:17:39.421+0430 [conn1787]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:17:39.431+0430 [initandlisten] connection accepted from 192.168.1.151:55488 #1788 (10 connections now open)
+2017-07-17T09:17:39.614+0430 [conn1788]  authenticate db: rasam_new { authenticate: 1, user: "rasam_new", nonce: "xxx", key: "xxx" }
+2017-07-17T09:18:09.453+0430 [conn1787] end connection 192.168.1.151:55487 (9 connections now open)
+2017-07-17T09:18:09.581+0430 [conn1786] end connection 192.168.1.151:55486 (8 connections now open)
+2017-07-17T09:18:09.619+0430 [conn1788] end connection 192.168.1.151:55488 (7 connections now open)
